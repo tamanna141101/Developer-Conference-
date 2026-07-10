@@ -1,0 +1,3 @@
+I am absolute beggainer I am Start to learning web developing and I am making a website called "DevConf 2026". Please create one Hackathon section (NextGen Hackathon) using only HTML5 and CSS3. Use a soft light theme, responsive, use real text (no Lorem Ipsum).The section should have a title and in the center ,short description ,3 challenge cards ,Challenge name ,"details" button for Short description ,Prize ,Registration deadline and "Join Challenge" button .Card will be Rounded ,Nice colors for badges and buttons and Good spacing . And also give me a reference image of this section so I can see how the design should look before I start coding.
+
+![Reference Image](prompt%20_ref_image.png)
