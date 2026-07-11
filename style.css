@@ -21,6 +21,20 @@ body {
 
 }
 
+.section-title{
+    text-align:center;
+    margin-bottom:50px;
+
+}
+
+.section-title h2{
+    font-size:54px;
+    font-weight:800;
+    color:#101828;
+    margin-bottom:15px;
+
+}
+
 /*Navbar*/
 
 header {
@@ -146,19 +160,7 @@ header {
 
 }
 
-.section-title{
-    text-align:center;
-    margin-bottom:50px;
 
-}
-
-.section-title h2{
-    font-size:54px;
-    font-weight:800;
-    color:#101828;
-    margin-bottom:15px;
-
-}
 
 /* Grid */
 
@@ -217,4 +219,134 @@ header {
     font-size:12px;
 
 }
+
+
+/*Pricing Section*/
+
+.pricing{
+    padding:24px 0;
+    background:#fff;
+
+}
+
+.pricing p{
+    font-size:14px;
+    color:#484e5a;
+    margin-bottom:15px;
+
+}
+.pricing-container{
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+    gap:30px;
+    margin-top:60px;
+
+}
+
+.price-card{
+    background:#fefefe;
+    padding:30px 35px;
+    border-radius:10px;
+    text-align:left;
+    box-shadow:0 15px 35px rgba(0,0,0,.08);
+
+
+}
+
+.price-card h3{
+    font-size:14px;
+    color:#484e5a;
+    margin-bottom:15px;
+
+}
+
+
+.price-card h1{
+    font-size:50px;
+    color:#101828;
+    margin-bottom:15px;
+
+}
+
+.plan-text{
+    color:#667085;
+    margin-bottom:30px;
+
+}
+
+
+ .price-card ul {
+   border-top: 1px solid #c4cad3;
+   margin-top: 20px;
+   padding: 20px;
+
+}
+.price-card ul li{
+    font-size:14px;
+    padding:5px 0;
+    color:#667085;
+
+}
+.price-card li::marker {
+    color: #0e3fee;
+}
+
+ .price-btn{
+    display:inline-block;
+    background:#fff;
+    width: 100%;
+    text-align: center;
+    text-decoration:none;
+    padding:16px 35px;
+    border-radius:8px;
+    font-weight:600;
+
+    
+
+}
+
+.price-btn-Standard{
+    border:1px solid #0e3fee;
+    color:#0e3fee;
+}
+
+.price-btn-Pro{
+    background:#0e3fee;
+    color:#fff;
+
+
+}
+.price-btn-team{
+    border:1px solid #101828;
+    color:#101828;
+    
+}
+
+
+.active{
+    background:#101828;
+    color:#667085;
+}
+
+.active h1{
+    color:#fff;
+
+}
+
+.active .plan-text{
+    color:#667085;
+
+}
+h3.price-card-pro{
+   color:#0e3fee;
+    
+
+}
+
+.active ul li{
+    color:#667085;
+    border-color:r#667085;
+
+}
+
 
