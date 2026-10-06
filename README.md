@@ -7,9 +7,12 @@ A modern and responsive **Developer Conference landing page** built with **HTML5
 ## 🌐 Project Overview
 
 DevConf 2026 is designed as a clean and modern conference website for developers, engineers, founders, and builders.
-🌐 Live Demo
+###🌐 Live Demo
 
 🔗 [View Live Website](https://developer-conference-sable.vercel.app/)
+
+
+
 The website focuses on:
 
 * Developer conference information
